@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Bhavesh Rajpurohit,Student at Vishwakarma University currently pursuing B.Tech in Computer Science.I am a tech enthusiast.I love learning new technology.
 
 <!--
 **bhaveshraj336/bhaveshraj336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on Flutter.
+- 🤔 I’m looking for help with ML.
+- 💬 Ask me about Flutter.
+- 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=9860159336)
+
+### Connect With ME
+[Linkdin](https://www.linkedin.com/in/bhaveshrajpurohit/)
+
