@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cyber Security.
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=9860159336)
 
-### Connect With ME
-[Linkdin](https://www.linkedin.com/in/bhaveshrajpurohit/)
 
