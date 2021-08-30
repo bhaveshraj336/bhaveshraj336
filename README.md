@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Flutter.
 - 🤔 I’m looking for help with ML.
-- 💬 Ask me about Flutter.
+- 💬 Ask me about Cyber Security.
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=9860159336)
 
 ### Connect With ME
