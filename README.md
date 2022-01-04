@@ -4,11 +4,10 @@
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
 [1]: https://github.com/bhaveshraj336
-[2]: https://www.facebook.com/rajpurohitbhavesh336/ 
-[3]: https://www.linkedin.com/in/bhaveshrajpurohit/
+[2]: https://www.linkedin.com/in/bhaveshrajpurohit/
 
 ### Hi there 👋
-- I'm Bhavesh Rajpurohit,Student at Vishwakarma University currently pursuing B.Tech in Computer Science.I am a tech enthusiast.I love learning new technology.
+- I'm Bhavesh Rajpurohit,Student at Vishwakarma University currently pursuing B.Tech in Computer Science.I am a tech and cyber security enthusiast.I love building and breaking products😅.
 
 <!--
 **bhaveshraj336/bhaveshraj336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
