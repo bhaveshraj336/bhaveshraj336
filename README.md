@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Flutter.
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about Cyber Security.
-- 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=9860159336)
+- 📫 How to reach me: [Twitter](https://twitter.com/shellbreaker_)
 
 
