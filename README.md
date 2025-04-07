@@ -1,114 +1,65 @@
-# The Hacker-Blog theme
+<h1 align="center">Bhavesh Rajpurohit</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentester-%2300ff99.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-%23ff0066.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-%2300bfff.svg?style=for-the-badge" />
+</p>
 
-*Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
+---
 
-Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
+## 🧠 About Me
 
-### Included
+> 0xBhaV3sh — breaking assumptions, securing reality.
 
-1. Pagination
-2. SEO tags
-3. Archive Page
-4. About Page
-5. RSS (`https://base-url/atom`)
-6. Sitemap (`https://base-url/sitemap`)
-7. Google Analytics (optional)
+- 🧬 Offensive Security practitioner  
+- 🕷️ Bug bounty hunter on HackerOne, Bugcrowd & Intigriti  
+- ⚔️ Specializing in Web, API, and Cloud (AWS, Azure, GCP)  
+- 🛠️ Helping startups build internal pentest functions  
+- 🧪 Focused on practical, scalable, creative exploits
 
-## Usage
+---
 
-1. Fork and Clone this repository
-2. Customize your blog
-3. Add a new post in `_posts/` directory with proper name format (as shown in placeholder posts)
-4. Commit and push to master on a repository named `<githubusername.github.io>`.
-5. Visit `<githubusername>.github.io`
+## 🔥 Current Focus
 
-## Local Build
+- 🛠️ Building a confidential red team/web exploitation tool  
+- 🎯 Preparing for **OSCP** (Try Harder Mode: ON)  
+- ⛓️ Diving deeper into privilege escalation and access control  
+- 🧠 Exploring Linux internals, crafting exploit chains, and building offensive automation
 
-If you want to see the changes before pushing the blog to Github, do a local build.
 
-1. [`gem install jekyll`](https://jekyllrb.com/docs/installation/#install-with-rubygems)
-2. `gem install jekyll-seo-tag`
-3. `gem install jekyll-paginate`
-4. `gem install jekyll-sitemap`
-5. (`cd` to the blog directory, then:) `jekyll serve --watch --port 8000`
-6. Go to `http://0.0.0.0:8000/` in your web browser.
+---
 
-*Note: In case you have set a `baseurl` different than `/` in `_config.yml`, go to `http://0.0.0.0:8000/BASEURL/` instead.*
+## 🧾 Certifications
 
-### Local build using docker
+- 🧠 **eJPT** — INE Junior Penetration Tester  
+- ⚔️ **eWPTX** — Web App Penetration Tester eXtreme  
+- 🛡️ **CAPen** — Certified AppSec Pentester
+- 🔥 **OSCP** — *In Progress*
 
-```bash
-docker run --rm -p 8000:8000 \
-  --volume="LOCATION_OF_YOUR_JEKYLL_BLOG:/srv/jekyll" \
-  -it tocttou/jekyll:3.5 \
-  jekyll serve --watch --port 8000
-```
+---
 
-Replace `LOCATION_OF_YOUR_JEKYLL_BLOG` with the full path of your blog repository. Visit `http://localhost:8000/` to access the blog.
+## 🕵️‍♂️ Bug Bounty Profiles
 
-*Note: In case you have set a `baseurl` different than `/` in `_config.yml`, go to `http://0.0.0.0:8000/BASEURL/` instead.*
+- 🐞 [**HackerOne** — `shellbreaker`](https://hackerone.com/shellbreaker)  
+- 🐛 [**Bugcrowd** — `shellbreaker`](https://bugcrowd.com/shellbreaker)  
+- 🕳️ [**Intigriti** — `shellbreaker`](https://app.intigriti.com/profile/shellbreaker)
 
-## Customizing
+---
 
-### Configuration variables
+## 👣 Reach Me
 
-Edit the `_config.yml` file and set the following variables:
+- 🌐 [Website]()  
+- 🐦 [Twitter](https://x.com/shellbreaker_)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhaveshrajpurohit/)  
 
-```yml
-title: [The title of your blog]
-description: [A short description of your blog's purpose]
-author:
-  name: [Your name]
-  email: [Your email address]
-  url: [URL of your website]
+---
 
-baseurl: [The base url for this blog.]
+## 📊 GitHub Intel
 
-paginate: [Number of posts in one paginated section (default: 3)]
-owner: [Your name]
-year: [Current Year]
-```
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshrajpurohit&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshrajpurohit&layout=compact&theme=tokyonight)
 
-*Note: All links in the site are prepended with `baseurl`. Default `baseurl` is `/`. Any other baseurl can be setup like `baseurl: /hacker-blog`, which makes the site available at `http://domain.name/hacker-blog`.*
+---
 
-Additionally, you may choose to set the following optional variables:
+> “Hack the planet. Stay ethical. Never stop learning.”
 
-```yml
-google_analytics: [Your Google Analytics tracking ID]
-```
-
-### About Page
-
-Edit `about.md`
-
-### Layout
-
-If you would like to modify the site style:
-
-**HTML**
-
-Footer: Edit `_includes/footer.html`
-
-Header: Edit `_includes/header.html`
-
-Links in the header: Edit `_includes/links.html`
-
-Meta tags, blog title display, and additional CSS: Edit `_includes/head.html`
-
-Index page layout: Edit `_layouts/default.html`
-
-Post layout: Edit `_layouts/post.html`
-
-**CSS**
-
-Site wide CSS: Edit `_sass/base.scss`
-
-Custom CSS: Make `_sass/custom.scss` and use it. Then add `@import "custom";` to `css/main.scss`
-
-**404 page**
-
-Edit `404.md`
-
-## License
-
-CC0 1.0 Universal
